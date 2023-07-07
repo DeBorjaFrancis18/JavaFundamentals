@@ -12,8 +12,8 @@ public class TwoDimensionalArrays {
 		String users[][] = {
 				{"Francis", "Francis123"}, 
 				{"Andrea", "Andrea123"}, 
-				{"Baniqued", "Baniqued123", "Bakla"}, 
-				{"Noaim", "Noaim123", "Bakla", "Nice"}, 
+				{"Baniqued", "Baniqued123", "Brother"}, 
+				{"Noaim", "Noaim123", "Brother", "Nice"}, 
 			};
 		
 		for(String user[]:users) {
